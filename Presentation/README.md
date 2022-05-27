@@ -1,3 +1,3 @@
 # Presentation files
-see pr Panagiotis Rigas for 
+see prPRigas for 
 fuzzy logic and nn
